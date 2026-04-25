@@ -1,1 +1,6 @@
-generated-docs/ 
+target/
+.settings/
+.classpath
+.project
+*.class
+generated-docs/
